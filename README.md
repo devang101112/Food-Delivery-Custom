@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TOMATO - Food Ordering Website
 
 This repository hosts the source code for TOMATO, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
@@ -128,3 +129,14 @@ Just raise an issue, and we will discuss it.
 ## Feedback
 
 If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/muhammad-shan-full-stack-developer/)
+=======
+echo "# Food Delivery App (Customized)
+
+This project is based on the original work by [Mshandev](https://github.com/Mshandev/Food-Delivery).
+
+Changes made:
+- Modified UI
+- Added new features
+- Updated configurations
+" > README.md
+>>>>>>> 82be30f5bec262a11b371d0fad4743a5d37ef833
